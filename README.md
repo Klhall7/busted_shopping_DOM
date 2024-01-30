@@ -2,7 +2,7 @@
 
 ## My cart is busted!
 
-My shopping list exercise from yesterday is broken. I load the page, type in the fields, click the button and ...
+My shopping list is broken. I load the page, type in the fields, click the button and ...
 
 There are at least 5 errors in this project. They range from typos, incorrect methods, or flat out missing methods.
 
